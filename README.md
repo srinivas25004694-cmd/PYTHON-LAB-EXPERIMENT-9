@@ -57,6 +57,9 @@ To implement Matplotlib and Pandas libraries in Python and visualize student dat
 11. Display all the charts.
 12. Stop the program.
 
+## sourcecode
+![Output 2](Screenshot%202026-11-22%20202126.png)
+
 ### Output Screenshots
 
 #### Student Marks – Bar Chart
