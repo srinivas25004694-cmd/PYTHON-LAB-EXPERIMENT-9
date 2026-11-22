@@ -34,7 +34,8 @@ To implement the Pandas package and create a DataFrame using Python.
 
 ### Output Screenshot
 
-![Output 2](Screenshot%202026-11-22%20202126.png)
+![Output 2](Screenshot%202026-11-22%20202207.png)
+
 
 ---
 
